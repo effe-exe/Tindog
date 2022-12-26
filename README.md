@@ -1,2 +1,1 @@
-# Tindog
-exercise from udemy
+TinDog Starting Files
